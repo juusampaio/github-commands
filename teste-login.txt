@@ -1,0 +1,4 @@
+abrir tela da qazando 
+digitar e-mail
+digitar senha
+clicar em login
